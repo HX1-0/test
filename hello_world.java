@@ -3,3 +3,5 @@ public class Hello{
     system.out.println("hello world!");
   }
 }
+
+public class World{}
